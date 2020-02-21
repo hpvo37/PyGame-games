@@ -172,7 +172,7 @@ def game_intro():
 
 
         #---BUTTON--
-        button("PLAY",240,60,100,40,light_blue,white,option_1)
+        button("PLAY",240,60,100,40,light_blue,white,game_loop_1)
         #button("RESET",87,450,150,70,light_grey,white,quitgame) 
         #button("SETTINGS",324,450,150,70,light_grey,white) 
         #button("HELP",561,450,150,70,light_grey,white) 
